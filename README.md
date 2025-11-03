@@ -1,15 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Punyaa !
 
-**punyaa/punyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software & Firmware Engineer | AI Enthusiast | Innovator  
+🌏 Based in Singapore / India | Passionate about bridging AI + hardware systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Masters of Computing @NUS Singapore
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+## 💡 About Me
 
+I’m a software engineer with 4+ years of experience in R&D (Print Industry) and a passion for building **intelligent tools that simplify everyday tech experiences**.  
+Currently exploring the intersection of **AI, automation, and user experience** through practical projects and hackathons.
+
+✨ I enjoy turning ideas into prototypes that improve efficiency and usability.  
+💭 Motto: *“Innovation starts where curiosity meets code.”*
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, C++, C#, JavaScript  
+**Frameworks:** WinForms, Streamlit, Flask  
+**AI Tools:** OpenAI API, LangChain, Hugging Face  
+**Libraries:** Pandas, NumPy, Matplotlib, iText, OpenCV  
+**Other Tools:** Git, Docker, Azure, WIA SDK  
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| [FinanceAid Tool](https://github.com/yourusername/FinanceAid-AI) | AI-based tool that categorizes daily expenses, visualizes spending, and gives saving suggestions. | Python, OpenAI API, Matplotlib |
+| [ScanGENIX](https://github.com/yourusername/ScanGENIX) | Duplex scanning automation prototype reducing manual flipping. | C#, WinForms, WIA, iText |
+| [QRPrint](https://github.com/yourusername/QRPrint) | Quick-connect printing via QR code for simplified printer setup. | Python, Networking, QR APIs |
+
+---
+
+## 🏆 Highlights & Achievements
+
+- 🥇 **Pan HP Hackathon 2024** – Built *ScanGENIX*, a duplex scanning solution  
+- 💡 **Innovate for India 2023** – Created *QRPrint* prototype for plug-and-play printing  
+- 🎤 Active participant in **AI Meetups**, **Innovation Club**, and **Copilot Affinity Group**  
+- 💼 Presentations on *LangChain*, *Hugging Face*, and *AI-powered log analysis*  
+
+---
+
+## 🌱 Currently Learning
+
+- LangGraph and multi-agent systems  
+- AI-driven UX automation  
+- Cloud deployment for intelligent apps  
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/punyaa-401897137)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/yourusername)  
+📧 Email:punyaa.singh@gmail.com
+
+---
+
+⭐ **“I love working on ideas that make technology simpler for everyone.”**  
+Feel free to explore my projects and connect if you’d like to collaborate!
