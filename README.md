@@ -14,7 +14,12 @@ Currently exploring the intersection of **AI, automation, and user experience** 
 💭 Motto: *“Innovation starts where curiosity meets code.”*
 
 ---
+### 🧩 Coding Profiles
+- [LeetCode](https://leetcode.com/yourusername/)
+- [Kattis](https://open.kattis.com/users/yourusername)
 
+  ----
+  
 ## 🛠️ Tech Stack
 
 **Languages:** Python, C++, C#, JavaScript  
