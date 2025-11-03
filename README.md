@@ -64,6 +64,11 @@ Currently exploring the intersection of **AI, automation, and user experience** 
 📧 Email:punyaa.singh@gmail.com
 
 ---
+## Statistics
+
+[![Punyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=punyaa)](https://github.com/punyaa/github-readme-stats)
+
+---
 
 ⭐ **“I love working on ideas that make technology simpler for everyone.”**  
 Feel free to explore my projects and connect if you’d like to collaborate!
