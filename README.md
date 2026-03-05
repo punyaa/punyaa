@@ -15,8 +15,8 @@ Currently exploring the intersection of **AI, automation, and user experience** 
 
 ---
 ### 🧩 Coding Profiles
-- [LeetCode](https://leetcode.com/yourusername/)
-- [Kattis](https://open.kattis.com/users/yourusername)
+- [LeetCode](https://leetcode.com/u/user7150Hq/)
+- [Kattis](https://open.kattis.com/users/punyaa04)
 
   ----
   
