@@ -17,6 +17,7 @@ Currently exploring the intersection of **AI, automation, and user experience** 
 ### 🧩 Coding Profiles
 - [LeetCode](https://leetcode.com/u/user7150Hq/)
 - [Kattis](https://open.kattis.com/users/punyaa04)
+- [Tableu](https://public.tableau.com/views/Calfirefrapanalysis/CalfireFrapAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
   ----
   
